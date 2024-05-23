@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Wanderlust",
+    "imageSrc": "projects/project.png",
+    "description": "Led the development and launch of Wanderlust, an innovative travel platform modeled after Airbnb.",
+    "skills": ["JavaScript", "Express", "Node","MongoDB"],
+    "demo": "https://github.com/Asthagupta26/WanderLust-Project",
+    "source": "https://github.com/Asthagupta26/WanderLust-Project"
+  },
+  {
+    "title": "Planet App",
+    "imageSrc": "projects/project.png",
+    "description": "This beginner-friendly project demonstrates how to create a React app that uses the Star Wars API to display information",
+    "skills": ["React", "CSS", "Axios"],
+    "demo": "https://github.com/Asthagupta26/Planet-App",
+    "source": "https://github.com/Asthagupta26/Planet-App"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This Weather App showcases my React and Material-UI skills, delivering real-time weather information in a user-friendly way.",
+    "skills": ["React", "MaterialUI"],
+    "demo": "https://github.com/Asthagupta26/MaterialUI",
+    "source": "https://github.com/Asthagupta26/MaterialUI"
+  }
+]
