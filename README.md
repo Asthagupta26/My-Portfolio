@@ -1,8 +1,13 @@
-# React + Vite
+### 1\. Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio built using **React** to showcase my work, skills, and experience. The portfolio includes various sections like **About Me**, **Projects**, **Skills**, and **Contact Information**. The site is fully responsive, designed to be user-friendly on both desktop and mobile devices.
 
-Currently, two official plugins are available:
+### 2\. Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **About Me**: A brief introduction and background.
+*   **Projects**: Display of featured projects with links to their respective GitHub repositories and live demos.
+*   **Skills**: A list of technologies and tools I am proficient in.
+*   **Contact Form**: A functional contact form for visitors to reach out to me.
+*   **Responsive Design**: Optimized for different screen sizes.
+
+Deployed Link:-https://astha26-portfolio.netlify.app/
